@@ -70,3 +70,8 @@ This project uses a web-based tool called Google's Teachable Machine to identify
 
       One key ethical consideration is privacy. Image recognition systems often collect or analyze photos of people who didn’t consent to being recorded. Developers must ensure data is gathered responsibly, stored securely, and used only for its intended purpose to prevent misuse or unauthorized surveillance.
 
+## Screenshot
+<img width="1902" height="867" alt="image" src="https://github.com/user-attachments/assets/cab2c590-c3a5-4e1c-ba76-62428ddc4d29" />
+<img width="1895" height="871" alt="image" src="https://github.com/user-attachments/assets/8c3f7f7d-5fd7-4a5f-8594-7200252c7df2" />
+
+
