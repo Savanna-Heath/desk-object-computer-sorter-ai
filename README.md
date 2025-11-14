@@ -59,9 +59,12 @@ This project uses a web-based tool called Google's Teachable Machine to identify
     * Brainstorm 2-3 real-world applications where a similar image classification model could be useful.
 
       A couple of real-world applications where a similar image classification model could be useful are:
-        Medical imaging — classifying X-rays or skin lesion images to help identify potential diseases.
-        Security and surveillance — detecting objects like weapons, vehicles, or intruders in camera footage.
-        Retail inventory management — automatically recognizing products on shelves to track stock levels or detect misplaced items.
+
+      Medical imaging — classifying X-rays or skin lesion images to help identify potential diseases.
+
+      Security and surveillance — detecting objects like weapons, vehicles, or intruders in camera footage.
+
+      Retail inventory management — automatically recognizing products on shelves to track stock levels or detect misplaced items.
         
     * Briefly discuss one ethical consideration that developers should keep in mind when building and deploying image recognition AI in the real world (e.g., related to fairness, privacy, misuse).
 
